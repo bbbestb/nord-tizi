@@ -39,7 +39,7 @@
 *   _<span>支持设备</span>_
 *   _<span>定价计划</span>_
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Infograph-Nord梯子.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Infograph-NordVPN.png)
 
 ### <span>我对Nord梯子有什么看法？</span>
 
@@ -94,7 +94,7 @@
 
 ### <span>DNS泄漏保护</span>
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Nord梯子-DNS-and-IP-leak-Test-1.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/NordVPN-DNS-and-IP-leak-Test-1.png)
 
 <span>叫我偏执，但我不太满意我的在线安全性。事实上，在评估梯子时，DNS和IP泄漏测试是我程序的常规部分。</span>
 
@@ -112,7 +112,7 @@
 
 ### <span>杀死开关</span>
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Nord梯子-kill-switch-feature.jpg)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/NordVPN-kill-switch-feature.jpg)
 
 <span>该</span><span>Nord梯子切断开关</span><span>  功能完美地为我工作。</span>
 
@@ -122,7 +122,7 @@
 
 ![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Nord-not-working-error-message.png)
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Nord梯子-kill-switch-disables-internet.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/NordVPN-kill-switch-disables-internet.png)
 
 ### <span>同时连接</span>
 
@@ -152,7 +152,7 @@
 
 <span>使用Nord梯子也很有可能访问Dark Web，事实上，客户端本身就有一个专用于Onion over 梯子的选项。</span>
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Nord梯子-onion-over-vpn.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/NordVPN-onion-over-vpn.png)
 
 <span>如果您使用此功能，您实际上可以使用梯子路由您的流量，然后再将其发送到洋葱路由器。</span>
 
@@ -182,7 +182,7 @@
 
 <span>该梯子的广泛服务器网络延伸到亚太，欧洲，美洲，非洲和中东。</span>
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Nord梯子-Server-Coverage-1.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/NordVPN-Server-Coverage-1.png)
 
 <span>以下是Nord梯子最受欢迎的服务器位置。</span>
 
@@ -220,7 +220,7 @@
 
 #### <span>选择您的服务器</span>
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Using-Nord梯子-1.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Using-NordVPN-1.png)
 
 <span>在此梯子上挑选您的首选服务器是一种令人满意的体验，尤其是在Windows和Mac上。</span>
 
@@ -254,11 +254,11 @@
 
 <span>Nord梯子合法地不保留日志，事实上，它在其隐私政策中有明确规定。</span>
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Nord梯子-Review-for-Privacy-Policy-1.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/NordVPN-Review-for-Privacy-Policy-1.png)
 
 <span>虽然他们的隐私政策听起来确实令人信服，但我决定联系客户支持以验证其声明。</span>
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Nord梯子-live-chat-support.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/NordVPN-live-chat-support.png)
 
 <span>我必须承认，在与客户支持代表进行快速聊天后，我确信他们没有保留任何日志。</span>
 
@@ -279,7 +279,7 @@
 
 <span>我很惊讶地看到Nord梯子可以轻松解锁美国Netflix。更令人印象深刻的是，如果没有专用的流媒体服务器，它就能做到这一切。</span>
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Nord-梯子-unblocks-Netflix.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Nord-VPN-unblocks-Netflix.png)
 
 #### <span>与Netflix和BBC iPlayer配合使用的Nord梯子服务器：</span>
 
@@ -303,9 +303,9 @@
 
 <span>值得庆幸的是Nord梯子并非如此。相反，您会很高兴看到Nord梯子客户端中有专用的P2P选项。</span>
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Nord梯子-P2P-Support-1.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/NordVPN-P2P-Support-1.png)
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/downloading-torrents-with-Nord梯子-1024x724.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/downloading-torrents-with-NordVPN-1024x724.png)
 
 ### <span>近乎完美的速度</span>
 
@@ -323,15 +323,15 @@
 
 <span>在连接到梯子之前，我在 25Mbps连接</span>上运行Speedtest并记录了以下变量：
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Nord梯子-Before-Speed-Test-1.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/NordVPN-Before-Speed-Test-1.png)
 
 <span>之后，我首先连接到美国服务器，结果如下：</span>
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Nord梯子-US-Speed-1.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/NordVPN-US-Speed-1.png)
 
 <span>当然，我接下来对英国服务器进行了测试，这些数字再次令人印象深刻。</span>
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Nord梯子-UK-Speed-1.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/NordVPN-UK-Speed-1.png)
 
 <span>从那里开始，我下了Under Under并获得了澳大利亚服务器的以下变量。</span>
 
@@ -354,7 +354,7 @@
 
 <span>Nord梯子支持可以通过两种方式联系，通过直接24/7 Nord梯子聊天或电子邮件票务系统。</span>
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Nord梯子-Email-Ticketing-System-1.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/NordVPN-Email-Ticketing-System-1.png)
 
 <span>无论哪种方式，梯子的支持人员都精通并且拥有该品牌的第一手资料。</span>
 
@@ -364,7 +364,7 @@
 
 <span>即使你提出一个相对技术性的问题，你仍然会得到人的回应而不是复制粘贴的答案。</span>
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Nord梯子-customer-support.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/NordVPN-customer-support.png)
 
 <span>总体而言，我对他们的客户支持印象非常深刻。</span>
 
@@ -372,7 +372,7 @@
 
 <span>尽管Nord梯子非常易于操作，但仍然可以看到包含有用的故障排除手册和快速入门指南。</span>
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Help-Section-of-Nord梯子-1.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Help-Section-of-NordVPN-1.png)
 
 <span>说到这一点，Nord梯子的帮助部分有四个部分：入门，计费，连接和一般信息。</span>
 
@@ -448,15 +448,15 @@
 
 <span>登录后启动Nord梯子应用程序，您将看到一个广泛的地图，以选择您要连接的服务器位置。</span>
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Using-Nord梯子-1-1.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Using-NordVPN-1-1.png)
 
 <span>与直觉相反，您还可以使用countries选项滚动可用国家/地区及其服务器列表。</span>
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Countries-List-of-Nord梯子-1.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Countries-List-of-NordVPN-1.png)
 
 <span>除此之外，还可以通过简单的切换开关轻松实现Cyber​​Sec，Auto Connect，Kill Switch等安全功能。</span>
 
-![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Setting-section-of-Nord梯子-1.png)
+![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/Setting-section-of-NordVPN-1.png)
 
 <span>总的来说，客户端配备齐全，简单易用，无论您使用梯子的经验如何。</span>
 
